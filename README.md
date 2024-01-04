@@ -1,5 +1,5 @@
 Hello Welcome!
 This repository consists of various open source projects I completed.
-The majority of projects were KAGGLE projects completed. 
+The majority of projects were KAGGLE projects, but all the projects are based on open-source datasets. 
 Some of the projects have only the code written for the project and others have presentation of 
 the findings.
